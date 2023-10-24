@@ -1,0 +1,16 @@
+dataset,pheno,n,n_heldout,n_train
+abcd,age,7976,3000,4976
+hbn,age,1201,200,1001
+pnc,age,1126,200,926
+hcpd,age,605,100,505
+abcd,attn,7975,3000,4975
+hbn,attn,1150,200,950
+pnc,attn,1104,200,904
+hcpd,attn,462,100,362
+abcd,mr,7822,3000,4822
+hbn,mr,1024,200,824
+pnc,mr,1119,200,919
+hcpd,mr,424,100,324
+abcd,mr_scaled,7822,3000,4822
+hbn,mr_scaled,1024,200,824
+hcpd,mr_scaled,424,100,324
