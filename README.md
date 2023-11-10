@@ -58,3 +58,7 @@ The notebook for plotting the results is [plots.ipynb](plots.ipynb). This notebo
 
 
 Please check back shortly for an interactive jupyter notebook (via google colab) through which you can plot our results
+
+# License
+
+This code is covered under the MIT License.
