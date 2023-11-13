@@ -56,8 +56,9 @@ The data should be converted to a form more suitable for our plotting script usi
 
 The notebook for plotting the results is [plots.ipynb](plots.ipynb). This notebook includes the calculation of power, effect size inflation, and the difference between internal/external performance. 
 
+A slightly abbreviated version of this notebook is available via Google Colab. You can run this notebook in a web browser with little to no setup required (e.g., no requirement for installing Python or any packages).
 
-Please check back shortly for an interactive jupyter notebook (via google colab) through which you can plot our results
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sCZwPgW7VDG5utK2F2CuxKPv0T-9LoDD?authuser=1#scrollTo=5970d27a)
 
 # License
 
